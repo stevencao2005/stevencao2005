@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a current Computer Science and Engineering undergraduate at UC Irvine seeking new opportunities in machine learning, software development, and artificial intelligence.
+
+Feel free to connect on [Linkedin](https://www.linkedin.com/in/stevencao2005/); I'm always excited to discuss new challenges and open to expand my interests!
